@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOT WORKING
+
 """
 smart_aspect_crop_jpegtran.py
 
